@@ -65,3 +65,6 @@ Interactive Excel dashboards allow users to filter data dynamically, providing d
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/bank-loan-analysis.git
+2. Open the `bank_loan_analysis.xlsx` file to explore the dynamic dashboards.
+3. Run SQL queries using `SQLQuery1.sql` to extract data from the database.
+
