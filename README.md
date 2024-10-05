@@ -56,10 +56,6 @@ Offers deeper insights by visualizing:
 - Created visualizations that break down loan applications by key variables such as state, loan term, and employee length.
 - The analysis highlights trends in loan approvals and repayments across various categories.
 
-## 📸 Demo
-
-Interactive Excel dashboards allow users to filter data dynamically, providing deeper insights into loan metrics. Below are examples of both the **Summary** and **Overview** dashboards.
-
 ## 🧑‍💻 Usage
 
 1. Clone the repository:
