@@ -25,7 +25,7 @@ The goal of this project is to perform in-depth analysis on loan data using SQL 
 ## 📊 Dashboards
 
 ### 1. **Summary Dashboard**
-![Summary Dashboard](https://github.com/nakul-jain14/Bank-Loan-Analysis/blob/main/Bank%20Loan%20Analysis%20Images/Bank%20Loan%20Overview%20Dashboard.png)
+![Summary Dashboard](https://github.com/nakul-jain14/Bank-Loan-Analysis/blob/main/Bank%20Loan%20Analysis%20Images/Bank%20Loan%20summary%20Dashboard.png)
 
 Provides a quick snapshot of loan metrics, including:
 - Total Loan Applications
@@ -35,7 +35,7 @@ Provides a quick snapshot of loan metrics, including:
 - Debt-to-Income Ratio (DTI)
 
 ### 2. **Overview Dashboard**
-![Overview Dashboard](overview_dashboard.png)
+![Overview Dashboard](https://github.com/nakul-jain14/Bank-Loan-Analysis/blob/main/Bank%20Loan%20Analysis%20Images/Bank%20Loan%20Overview%20Dashboard.png)
 
 Offers deeper insights by visualizing:
 - Loan Applications by State
